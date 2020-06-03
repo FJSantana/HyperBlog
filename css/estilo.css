@@ -12,6 +12,8 @@ body
     background: green;
     font: 400;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+    font-style: italic; 
 }
 #container
 {
