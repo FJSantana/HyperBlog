@@ -15,6 +15,14 @@ body
     font-stretch: expanded;
     font-style: italic; 
 }
+#cabecera2
+{
+    background: #DDD;
+    font-size: 5em;
+    font-family: fantasy;
+    text-decoration-color: black;
+}
+
 #container
 {
     width: 70%;
