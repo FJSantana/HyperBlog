@@ -7,20 +7,28 @@ body
     margin: 0;
     padding: 0;
 }
+
 #cabecera
 {
-    background: green;
+    background: blue url("../imagenes/spider+venom.jpg");
     font: 400;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-stretch: expanded;
     font-style: italic; 
 }
+
 #cabecera2
 {
     background: #DDD;
-    font-size: 5em;
+    font-size: 12em;
     font-family: fantasy;
     text-decoration-color: black;
+}
+
+#cabecera #logo
+{
+    width: 125px;
+    vertical-align: middle;
 }
 
 #container
@@ -28,11 +36,18 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid green;
     margin: 0 auto;
+    background: blue;
 }
 
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    background:white;
+    padding: 1em;
 }
