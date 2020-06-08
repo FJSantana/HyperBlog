@@ -1,3 +1,7 @@
-Esta es la historia triste:
+##Esta es la historia triste:
 
-Porque la Liga MX se cancelo y ya no habra campeon. feo
+Porque la liga MX se cancelo y ya no hubi campeón.
+
+>El curso tan interesante de Git and GitHub ha sido lo mejor>
+
+##LIKE
