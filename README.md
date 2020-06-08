@@ -6,6 +6,6 @@ Un blog increible para el curso de Git y GitHub.
 
 Porque la liga MX se cancelo y ya no hubi campeón.
 
-> El curso tan interesante de Git and GitHub ha sido lo mejor >
+> El curso tan interesante de Git and GitHub ha sido lo mejor
 
 ## LIKE
